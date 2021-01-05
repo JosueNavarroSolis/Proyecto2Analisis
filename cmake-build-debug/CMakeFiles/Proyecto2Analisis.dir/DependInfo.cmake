@@ -4,7 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/famil/OneDrive/Documents/GitHub/Proyecto2Analisis/main.cpp" "C:/Users/famil/OneDrive/Documents/GitHub/Proyecto2Analisis/cmake-build-debug/CMakeFiles/Proyecto2Analisis.dir/main.cpp.obj"
+  "D:/KAG/kag/GitHub/Proyecto2Analisis/main.cpp" "D:/KAG/kag/GitHub/Proyecto2Analisis/cmake-build-debug/CMakeFiles/Proyecto2Analisis.dir/main.cpp.obj"
+  "D:/KAG/kag/GitHub/Proyecto2Analisis/sources/Stretch.cpp" "D:/KAG/kag/GitHub/Proyecto2Analisis/cmake-build-debug/CMakeFiles/Proyecto2Analisis.dir/sources/Stretch.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

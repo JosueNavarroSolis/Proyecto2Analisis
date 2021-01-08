@@ -1,0 +1,22 @@
+{
+	Tramos:[
+		{
+			Distancia:300,
+			Firmeza:65,
+			Humedad:40,
+			Agarre:10,
+		},
+		{
+			Distancia:200,
+			Firmeza:5,
+			Humedad:70,
+			Agarre:40,
+		},
+		{
+			Distancia:1,
+			Firmeza:10,
+			Humedad:34,
+			Agarre:92,
+		}
+	]
+}
